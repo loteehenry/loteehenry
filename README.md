@@ -54,13 +54,7 @@
 * Improving my data engineering & analysis skills
 * Building smarter, more automated systems
 * Applying AI to real-world engineering problems
-
----
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
-
+  
 ---
 
 ## 📫 Connect With Me

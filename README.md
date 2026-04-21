@@ -60,4 +60,4 @@
 ## 📫 Connect With Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/lotanna-henry-4663912a2/)
-* 📧 Email: lotannahenry.07@gmail.com
+* 📧 [Email](mailto:lotannahenry.07@gmail.com)

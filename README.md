@@ -37,10 +37,7 @@
 
 ---
 
-## 🚀 Projects
-
-* 🧭 **Well Viability Analyzer**
-  A data pipeline that evaluates oil well performance using profitability, production trends & cost metrics
+## 🚀 Major Projects
 
 * 🗺️ **CU Routing System (GDG Project)**
   Built a shortest-path routing system using graph-based algorithms for navigation within Covenant University
